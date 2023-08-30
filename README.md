@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm the CTO at @axiomatics, the leaders in fine-grained authorization. Prior to taking on the CTO role, I ran Customer Identity (CIAM) at Salesforce. My main focus is identity & access management (IAM) and API security. I've published several papers and contributed to several books on API security, identity, and attribute-based access control. I also contribute to several identity standards including OAuth, SCIM, ALFA, and XACML. I am a regular speaker at conferences including Identiverse, Gartner IAM summits, and the European Identity Conference. Check out my blog on identity and access at http://www.webfarmr.eu
+I'm the CTO at [@axiomatics](https://github.com/axiomatics), the leaders in fine-grained authorization. Prior to taking on the CTO role, I ran Customer Identity (CIAM) at Salesforce. My main focus is identity & access management (IAM) and API security.
+
+I've published several papers and contributed to several books on API security, identity, and attribute-based access control. I also contribute to several identity standards including OAuth, SCIM, ALFA, and XACML. I am a regular speaker at conferences including Identiverse, Gartner IAM summits, and the European Identity Conference. Check out my blog on identity and access at http://www.webfarmr.eu
 
 
 - 🔭 I’m currently working on Open ID Foundation's Policy Charter
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on everything IAM
 - 💬 Ask me about XACML
-- 📫 How to reach me: [...](https://www.linkedin.com/in/davidbrossard)https://www.linkedin.com/in/davidbrossard
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidbrossard)
 - 😄 Pronouns: He/him
