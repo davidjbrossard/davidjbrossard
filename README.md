@@ -23,6 +23,6 @@ I've published several papers and contributed to several books on API security, 
 - 🔭 I’m currently working on Open ID Foundation's Policy Charter
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on everything IAM
-- 💬 Ask me about XACML
-- 📫 How to reach me: (https://www.linkedin.com/in/davidbrossard)
+- 💬 Ask me about XACML and ALFA (Abbreviated Language for Authorization)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidbrossard)
 - 😄 Pronouns: He/him
