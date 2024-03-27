@@ -20,9 +20,9 @@ I'm the CTO at [Axiomatics](https://github.com/axiomatics "Axiomatics's Github p
 I've published several papers and contributed to several books on API security, identity, and attribute-based access control. I also contribute to several identity standards including OAuth, SCIM, ALFA, and XACML. I am a regular speaker at conferences including Identiverse, Gartner IAM summits, and the European Identity Conference. Check out my blog on identity and access at [Webfarmr](https://www.webfarmr.eu "Harvesting web technologies").
 
 
-- 🔭 I’m currently working on Open ID Foundation's Policy Charter
-- 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on everything IAM
-- 💬 Ask me about XACML and ALFA (Abbreviated Language for Authorization)
+- 🔭 I’m currently working on Open ID Foundation's AuthZEN Working Group.
+- 🌱 I’m currently learning AI, Node.JS, and Typescript.
+- 👯 I’m looking to collaborate on everything IAM.
+- 💬 Ask me about XACML and ALFA (Abbreviated Language for Authorization).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidbrossard)
 - 😄 Pronouns: He/him
